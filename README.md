@@ -77,23 +77,6 @@ The model's performance was assessed using multiple evaluation metrics:
 
 ---
 
-## 📁 Repository Structure
-
-```
-renewable-energy-lstm/
-├── README.md
-├── reports/
-│   └── Final_Report_1-42.pdf
-├── results/
-│   ├── static_voltage_prediction.png
-│   ├── static_voltage_failure_detection.png
-│   ├── quasi_dynamic_voltage_prediction.png
-│   └── quasi_dynamic_voltage_failure_detection.png
-├── models/  ← (optional for storing trained weights)
-└── [your notebooks or code here]
-```
-
----
 
 ## 📚 Report
 
