@@ -34,12 +34,12 @@ Proton Exchange Membrane Fuel Cells (PEMFCs) offer a clean energy solution but s
 
 - **LSTM Prediction vs Actual Voltage**
 
-  ![Static Voltage Prediction](results/static_voltage_prediction.png)  
+  ![Static Voltage Prediction](reports/static_voltage_prediction.png)  
   *Prediction results of LSTM RNN for static operation mode at TP = 500*
 
 - **Failure Voltage Detection**
 
-  ![Static Voltage Failure](results/static_voltage_failure_detection.png)  
+  ![Static Voltage Failure](reports/static_voltage_failure_detection.png)  
   *Predicted voltage values at 800 hours, 1000 hours and failure time in Static dataset*
 
 ---
@@ -48,12 +48,12 @@ Proton Exchange Membrane Fuel Cells (PEMFCs) offer a clean energy solution but s
 
 - **LSTM Prediction vs Actual Voltage**
 
-  ![Quasi-Dynamic Voltage Prediction](results/quasi_dynamic_voltage_prediction.png)  
+  ![Quasi-Dynamic Voltage Prediction](reports/quasi_dynamic_voltage_prediction.png)  
   *Prediction results of the training set in quasi-dynamic data*
 
 - **Failure Voltage Detection**
 
-  ![Quasi-Dynamic Voltage Failure](results/quasi_dynamic_voltage_failure_detection.png)  
+  ![Quasi-Dynamic Voltage Failure](reports/quasi_dynamic_voltage_failure_detection.png)  
   *Predicted voltage values at 800 hours, 1000 hours and failure time in quasi-dynamic dataset*
 
 ---
